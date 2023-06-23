@@ -1,4 +1,4 @@
-<img alt="logo" align="right" src="./assets/Main512x512.ico">
+![Screenshot](https://raw.githubusercontent.com/goldnjohn/InstaVerse/main/assets/Main512x512.ico)
 AHK Script that helps get Bible verses to be pasted with a given reference.<br>
 
 # Releases
